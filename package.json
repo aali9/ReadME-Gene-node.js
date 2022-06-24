@@ -1,0 +1,23 @@
+{
+  "name": "readme-gene-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aali9/ReadME-Gene-node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aali9/ReadME-Gene-node.js/issues"
+  },
+  "homepage": "https://github.com/aali9/ReadME-Gene-node.js#readme",
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  }
+}

@@ -50,4 +50,5 @@ Nothing used
 ## Questions
 
 Contact me with any questions:
-Github:aali9
+Github:https://github.com/aali9/ReadME-Gene-node.js
+Email:anfal.ali_@hotmail.co.uk

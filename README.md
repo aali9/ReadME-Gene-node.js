@@ -1,8 +1,7 @@
 # ReadME-Gene-node.js
 
-# README-generato-node.js
+# README-generator-node.js
 
-# README
 
   <img src="https://img.shields.io/badge/LICENSE-MIT-blue.svg">
 

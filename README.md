@@ -27,7 +27,7 @@ There is a question to ensure the readMe includes the user's email address and g
 
 Clone this github repository and open the file. Ensuring you are in the correct file in the terminal, enter "npm install inquirer". Once it has installed, enter "node index.js" into the terminal
 
-[Watch the video]
+[Watch the video]  https://drive.google.com/file/d/1qe3MFVl0OHJtvVipgyrZ2LXvW77GHqBl/view
 
 # Usage
 
